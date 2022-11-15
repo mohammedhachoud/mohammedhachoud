@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HACHOUD Mohammed</h1>
 <h3 align="center">A passionate Web developer from Algeria</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e0b17b3495bd7adb768d3f12538a52d952e8c344&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e0b17b3495bd7adb768d3f12538a52d952e8c344&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedhachoud&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedhachoud" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohammedhachoud" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedhachoud?logo=twitter&style=for-the-badge" alt="mohammedhachoud" /></a> </p>
