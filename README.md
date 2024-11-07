@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/mohammed hachoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed hachoud" height="30" width="40" /></a>
 <a href="https://fb.com/mohammed hachoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed hachoud" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammed_hachoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed_hachoud" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mohammedhachoud" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="mohammed hachoud on Kaggle" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
