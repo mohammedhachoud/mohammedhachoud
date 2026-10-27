@@ -4,7 +4,7 @@
 
 ### Computer Science Engineer · AI Engineering & Software Systems
 
-I build AI-powered applications and the software around them--from experimentation and evaluation to backend services and user-facing products.
+I build AI-powered applications and the software around them from experimentation and evaluation to backend services and user-facing products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Hachoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-hachoud)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hachoud@esi-sba.dz)
@@ -57,7 +57,7 @@ I compared BM25 with dense retrieval using Qdrant, then evaluated retrieval perf
 
 The project examines a practical question: how much retrieval and generation quality can be improved before the additional computational cost stops being worthwhile?
 
-### Spiridon -- Graph-Based Artifact Classification
+### Spiridon - Graph-Based Artifact Classification
 
 ![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Graph Neural Networks](https://img.shields.io/badge/Graph_Neural_Networks-2563EB?style=flat-square&logo=graphql&logoColor=white)
@@ -72,7 +72,7 @@ The best model reached **98.33% classification accuracy** in the reported experi
 
 **[View repository →](https://github.com/mohammedhachoud/Spiridon)**
 
-### RunRightAI -- Sprint Analysis from Video
+### RunRightAI - Sprint Analysis from Video
 
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pose Estimation](https://img.shields.io/badge/Pose_Estimation-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -85,7 +85,7 @@ I worked on a pipeline that detects human poses, tracks body keypoints, and appl
 
 **[View repository →](https://github.com/mohammedhachoud/HumanPose-Estimation-in-Sport-Analysis)**
 
-### Body Force -- Gym Management System
+### Body Force - Gym Management System
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
