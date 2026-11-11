@@ -6,6 +6,7 @@
 
 I build AI-powered applications and the software around them from experimentation and evaluation to backend services and user-facing products.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mohammedhachoud.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Hachoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-hachoud)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hachoud@esi-sba.dz)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohammedhachoud)
@@ -174,6 +175,7 @@ Higher National School of Computer Science, ESI-SBA, Algeria
 I’m always glad to exchange ideas about AI agents, RAG, graph learning, computer vision, or the challenge of turning experimental systems into useful software.
 
 <p align="center">
+  <a href="https://mohammedhachoud.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_my_website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:m.hachoud@esi-sba.dz"><img src="https://img.shields.io/badge/Email-m.hachoud%40esi--sba.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/mohammed-hachoud"><img src="https://img.shields.io/badge/LinkedIn-mohammed--hachoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/mohammedhachoud"><img src="https://img.shields.io/badge/GitHub-mohammedhachoud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
